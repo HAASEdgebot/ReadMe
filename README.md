@@ -1,10 +1,10 @@
-ReadMe
-Edgebot ReadMe
+
+# Edgebot ReadMe
 
 This repository is set up to house all working files for the Haas Edgebot Machine
 All files are property of HAAS Automation
 
-Fusion 360 Add-in Setup instructions:
+## Fusion 360 Add-in Setup instructions:
 Inside of Fusion 360 navigate to the "Tools" toolbar and press add-ins tab
 
 All installed scripts and add-ins will be visible in the pop up menu, to add scripts and add-ins you must put the files under the add-ins folder in corresponding folder on your hardrive
