@@ -2,6 +2,7 @@
 # Edgebot ReadMe
 
 This repository is set up to house all working files for the Haas Edgebot Machine
+
 All files are property of HAAS Automation and subject to copyright and privacy laws
 
 ## Fusion 360 Add-in Setup instructions:
